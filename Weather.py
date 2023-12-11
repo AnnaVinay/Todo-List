@@ -34,3 +34,7 @@ def main():
 if __name__ == "__main__":
     main()
 #  API key: 549b4e146d344a637bc5ea6a3f95c39c
+# git init
+# git add Weather.py
+# git commit -m "Weather.py"
+# git push origin main
